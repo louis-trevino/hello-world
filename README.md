@@ -1,2 +1,2 @@
 # hello-world 
-privet mir
+# privet mir
